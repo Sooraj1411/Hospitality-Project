@@ -6,5 +6,5 @@ _AtliQ Grands owns multiple five-star hotels across India. They have been in the
 _This project analyzes key performance metrics for a hotel business over a 3-month period (May, June, July), focusing on Revenue, RevPAR, Occupancy Rates, and other KPIs. It includes insights on performance across_ _weekdays and weekends, customer behavior, and booking platform trends. Recommendations are provided based on observed patterns to improve room quality, customer engagement, and business performance._
 
 
-##__Report Overview__
+## __Report Overview__
 *The Report is built using Power BI with interactive visualizations, slicers, and insights for better decision-making.*
