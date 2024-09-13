@@ -1,7 +1,7 @@
 # **Hospitality-Project**
-
+<br><br>
 _This project was created as part of the Codebasics Resume Project Challenge. The challenge aimed to provide practical experience and showcase skills in data visualization and business intelligence using Power BI._
-
+<br><br>
 ## __Description__
 _AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in_ _management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data_ _Intelligence” to regain their market share and revenue._ <br>
 
@@ -16,7 +16,7 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 [Report Page 4](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%204.png) <br>
 [Report Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) <br><br>
 
-
+<br><br>
 ## __Key Performance Indicators (KPIs)__
 *The report includes the following KPIs to help users quickly grasp the critical metrics:*
 
