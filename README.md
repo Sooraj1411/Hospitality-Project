@@ -8,3 +8,4 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 
 ## __Report Overview__
 *The Report is built using Power BI with interactive visualizations, slicers, and insights for better decision-making.*
+[Page 1](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%201.png)
