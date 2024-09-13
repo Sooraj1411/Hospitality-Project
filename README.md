@@ -22,3 +22,7 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 
 - **Total Revenue:** Rs1.71bn overall revenue displayed for a quick overview.
 - **RevPAR:** Rs 7,347 RevPAR represents the revenue generated per available room, whether or not they are occupied.
+- **Occupancy %:** 57.9 % Occupancy means total successful bookings happened to the total rooms available(capacity).
+- **ADR:** Rs 1.27K It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period
+- **DSRN:** Rs 2.53K This metrics tells on average how many rooms are ready to sell for a day considering a time period
+- **Realization %** 70% It is nothing but the succesful "checked out" percentage over all bookings happened.
