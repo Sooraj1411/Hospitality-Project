@@ -27,7 +27,7 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 - **And Many More**
 - *Beneath Every KPI there shows some percentage in positive or negative which show how much the KPI changed with respect to last week.*
 <br>
-## __Slicers__
+## __Report Overview__
 
 To provide flexibility in data exploration, the report includes the following slicers:
 
