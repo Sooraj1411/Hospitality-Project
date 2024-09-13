@@ -26,8 +26,8 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 - **Realization %** 70% It is nothing but the succesful "checked out" percentage over all bookings happened.
 - **And Many More**
 - *Beneath Every KPI there shows some percentage in positive or negative which show how much the KPI changed with respect to last week.*<br>
-<br><br>
-## __Report Overview__
+<br>
+## __Slicers__
 
 To provide flexibility in data exploration, the report includes the following slicers:
 
