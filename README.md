@@ -36,3 +36,8 @@ To provide flexibility in data exploration, the report includes slicers for:
 - **Filter by Platform**
 - **Filter by Months**
 - **Filter by Weeks**
+
+These slicers allow users to filter the data according to specific criteria and gain insights into different aspects of the business.
+
+**Clear Slicers Button**  
+A "Clear Slicers" button has been added to the dashboard to make it easy for users to reset all slicer selections.
