@@ -1,77 +1,62 @@
-# **Hospitality-Project**
-<br>
-_This project was created as part of the Codebasics Resume Project Challenge. The challenge aimed to provide practical experience and showcase skills in data visualization and business intelligence using Power BI._
-<br>
-## __Description__
-_AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in_ _management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data_ _Intelligence” to regain their market share and revenue._
+Hospitality Project
+This project was created as part of the Codebasics Resume Project Challenge. The challenge aimed to provide practical experience and showcase skills in data visualization and business intelligence using Power BI.
 
-_This project analyzes key performance metrics for a hotel business over a 3-month period (May, June, July), focusing on Revenue, RevPAR, Occupancy Rates, and other KPIs. It includes insights on performance across_ _weekdays and weekends, customer behavior, and booking platform trends. Recommendations are provided based on observed patterns to improve room quality, customer engagement, and business performance._
-<br><br>
-## __Report Overview__
-*The Report is built using Power BI with interactive visualizations, slicers, and insights for better decision-making.*<br>
-[Report Page 1](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%201.png) <br>
-[Report Page 2](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%202.png) <br>
-[Report Page 3](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%203.png) <br>
-[Report Page 4](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%204.png) <br>
-[Report Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) <br>
-<br>
-## __Key Performance Indicators (KPIs)__
-*The report includes the following KPIs to help users quickly grasp the critical metrics:*
+Description
+AtliQ Grands owns multiple five-star hotels across India and has been in the hospitality industry for the past 20 years. Due to strategic moves from competitors and ineffective management decisions, AtliQ Grands is losing market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
 
-- **Total Revenue:** Rs1.71bn overall revenue displayed for a quick overview.
-- **RevPAR:** Rs 7,347 RevPAR represents the revenue generated per available room, whether or not they are occupied.
-- **Occupancy %:** 57.9 % Occupancy means total successful bookings happened to the total rooms available(capacity).
-- **ADR:** Rs 1.27K It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period
-- **DSRN:** Rs 2.53K This metrics tells on average how many rooms are ready to sell for a day considering a time period
-- **Realization %** 70% It is nothing but the succesful "checked out" percentage over all bookings happened.
-- **And Many More**
-- *Beneath Every KPI there shows some percentage in positive or negative which show how much the KPI changed with respect to last week.*<br>
-<br><br>
-## __Slicers__
+This project analyzes key performance metrics for the hotel business over a 3-month period (May, June, July), focusing on Revenue, RevPAR, Occupancy Rates, and other KPIs. It includes insights on performance across weekdays and weekends, customer behavior, and booking platform trends. Recommendations are provided based on observed patterns to improve room quality, customer engagement, and business performance.
 
+Report Overview
+The report is built using Power BI with interactive visualizations, slicers, and insights for better decision-making.
+
+Report Page 1
+Report Page 2
+Report Page 3
+Report Page 4
+Report Page 5
+Key Performance Indicators (KPIs)
+The report includes the following KPIs to help users quickly grasp critical metrics:
+
+Total Revenue: Rs 1.71bn – Overall revenue displayed for a quick overview.
+RevPAR: Rs 7,347 – Revenue generated per available room, whether occupied or not.
+Occupancy %: 57.9% – Total successful bookings relative to the total room capacity.
+ADR: Rs 1.27K – Average revenue per room sold in a given time period.
+DSRN: Rs 2.53K – Average number of rooms ready to sell per day.
+Realization %: 70% – Percentage of successful check-outs over all bookings.
+And Many More – Includes percentage changes compared to the previous week.
+Slicers
 To provide flexibility in data exploration, the report includes the following slicers:
 
-- **Filter by Property**
-- **Filter by City**
-- **Filter by Status**
-- **Filter by Platform**
-- **Filter by Months**
-- **Filter by Weeks**
+Filter by Property
+Filter by City
+Filter by Status
+Filter by Platform
+Filter by Months
+Filter by Weeks
+These slicers allow users to filter the data according to specific criteria and gain insights into different aspects of the business.
 
+Clear Slicers Button
+A "Clear Slicers" button has been added to the report to easily reset all slicer selections.
 
-*These slicers allow users to filter the data according to specific criteria and gain insights into different aspects of the business.*
+Pages Description
+This report is divided into 5 pages, each providing insights into the business problem or presenting ideas and solutions:
 
-**Clear Slicers Button**  
-*A "Clear Slicers" button has been added to the Report to make it easy for users to reset all slicer selections.*
-<br>
+Page 1 – Home screen showing the basic problem and navigation options.
+Page 2 – Basic analysis of AtliQ Hotels, including revenue, RevPAR, occupancy%, and a table with information about all hotels.
+Page 3 – Detailed analysis of room types, weekend vs. weekdays, revenues by city, etc.
+Page 4 – Insights and evaluation of advantageous and disadvantageous aspects of the company.
+Page 5 – Recommendations for improving profitability and customer experience.
+Requirements
+Power BI Desktop or Power BI Service to view and interact with the report.
+Report
+Download the report from Report
+For working with the live report, visit Live Report
+Additional Notes
+Throughout the report, I have used multiple tooltips in different visuals to enhance the report’s insights.
 
-## __Pages Description__
-*This report is divided in 5 pages. Each Page either give Information about the Problem or present idea or solution to tackle the Business Problem*
+Dataset Info
+For information about the dataset, refer to Dataset
 
-- [Page 1](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%201.png) - *This is The Home Screen where you can see the basic problem that company is facing right now and it can be used to navigate through other pages*
-- [Page 2](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%202.png) - *This Page is dedicated to present the basic analysis of the AtliQ Hotels, tells about their Revenue, RevPAR, Occupancy% & other things. Also include a table of telling information about all Hotels.*
-- [Page 3](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%203.png) - *This Page took the analysis to further level telling information just about Hotels but about their Rooms Types, Weekend vs Weekdays, Revenues by each city etc which will further helps in taking Business Decisions.*
-- [Page 4](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%204.png) - *This Page takes out the insights from the report and tells about the things that are advantageous & disadvantageous things to the company. This Page becomes more important as only on the base of it we will draw the recommendations for company*
-- [Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) - *Last but not the least the most important thing drawn out of this project is the tips or advice for the company which tells about the area where they can improve to make more profit & can give better experience to customers.*
-<br>
+Contact
+For any questions or feedback, please reach out to suraj783856@gmail.com.
 
-
-## __Requirements__
-- *Power BI Desktop or Power BI Service to view and interact with the report.*<br>
-
-<br><br>
-
-## __Report__
-- *Download the report from* [Report](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Hospitality%20Project.pbix)
-- *For Working With Live Report* [Live Report](https://app.powerbi.com/view?r=eyJrIjoiYTRiZGE5N2ItNjk2Yi00MGIwLWE5ODUtODk2NTk0OTBiNjA1IiwidCI6IjYxYzJmODhiLTk3ZmMtNDA0Yy05MWNkLTdiZmJkYjE1YWE0MiJ9&pageName=ReportSection05cb4e4be162c793b14e)
-
-<br>
-## __Additional Notes__
-*Throughout the report, I have used multiple tooltips in different visuals to make the report more insightful.*
-<br>
-## __Dataset Info__
-*For the information of dataset refer to [Dataset](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Info%20About%20Dataset.md*)
-<br>
-
-## __Contact__
-For any questions or feedback, please reach out to (suraj783856@gmail.com).
