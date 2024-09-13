@@ -57,7 +57,7 @@ To provide flexibility in data exploration, the report includes the following sl
 
 
 ## __Requirements__
-- *Power BI Desktop or Power BI Service to view and interact with the report.*
+- *Power BI Desktop or Power BI Service to view and interact with the report.*<br>
 
 <br><br>
 
