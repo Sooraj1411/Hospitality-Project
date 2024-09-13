@@ -27,6 +27,7 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 - **DSRN:** Rs 2.53K This metrics tells on average how many rooms are ready to sell for a day considering a time period
 - **Realization %** 70% It is nothing but the succesful "checked out" percentage over all bookings happened.
 - **And Many More**
+- *Beneath Every KPI there shows a % which show how much the KPI changed with respect to last week.*
 <br><br>
   ## Slicers
 To provide flexibility in data exploration, the report includes slicers for:
@@ -61,8 +62,8 @@ A "Clear Slicers" button has been added to the Report to make it easy for users 
 <br><br>
 
 ## __Report__
-*Download the report from* [Report](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Hospitality%20Project.pbix)
-*For Working With Live Report* [Live Report](https://app.powerbi.com/view?r=eyJrIjoiYTRiZGE5N2ItNjk2Yi00MGIwLWE5ODUtODk2NTk0OTBiNjA1IiwidCI6IjYxYzJmODhiLTk3ZmMtNDA0Yy05MWNkLTdiZmJkYjE1YWE0MiJ9&pageName=ReportSection05cb4e4be162c793b14e)
+- *Download the report from* [Report](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Hospitality%20Project.pbix)
+- *For Working With Live Report* [Live Report](https://app.powerbi.com/view?r=eyJrIjoiYTRiZGE5N2ItNjk2Yi00MGIwLWE5ODUtODk2NTk0OTBiNjA1IiwidCI6IjYxYzJmODhiLTk3ZmMtNDA0Yy05MWNkLTdiZmJkYjE1YWE0MiJ9&pageName=ReportSection05cb4e4be162c793b14e)
 
 <br><br>
 ## __Additional Notes__
