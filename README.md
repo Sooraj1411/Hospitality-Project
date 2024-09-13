@@ -15,3 +15,10 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 [Report Page 3](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%203.png) <br>
 [Report Page 4](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%204.png) <br>
 [Report Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) <br>
+
+
+## __Key Performance Indicators (KPIs)__
+*The dashboard includes the following KPIs to help users quickly grasp the critical metrics:*
+
+- **Total Revenue:** Rs1.71bn overall revenue displayed for a quick overview.
+- **RevPAR:** Rs 7,347 RevPAR represents the revenue generated per available room, whether or not they are occupied.
