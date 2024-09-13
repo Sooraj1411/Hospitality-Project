@@ -50,5 +50,24 @@ A "Clear Slicers" button has been added to the Report to make it easy for users 
 - [Page 1](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%201.png) - *This is The Home Screen where you can see the basic problem that company is facing right now and it can be used to navigate through other pages*
 - [Page 2](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%202.png) - *This Page is dedicated to present the basic analysis of the AtliQ Hotels, tells about their Revenue, RevPAR, Occupancy% & other things. Also include a table of telling information about all Hotels.*
 - [Page 3](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%203.png) - *This Page took the analysis to further level telling information just about Hotels but about their Rooms Types, Weekend vs Weekdays, Revenues by each city etc which will further helps in taking Business Decisions.*
-- [Page 4](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%204.png) - *This Page takes out the insights from the report and tells about the things that are advantageous & disadvantageous to the company.*
+- [Page 4](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%204.png) - *This Page takes out the insights from the report and tells about the things that are advantageous & disadvantageous things to the company. This Page becomes more important as only on the base of it we will draw the recommendations for company*
 - [Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) - *Last but not the least the most important thing drawn out of this project is the tips or advice for the company which tells about the area where they can improve to make more profit & can give better experience to customers.*
+<br><br>
+
+
+## __Requirements__
+- *Power BI Desktop or Power BI Service to view and interact with the report.*
+
+<br><br>
+
+## __Report__
+*Download the report from* [Report](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Hospitality%20Project.pbix)
+*For Working With Live Report* [Live Report](https://app.powerbi.com/viewr=eyJrIjoiYTRiZGE5N2ItNjk2Yi00MGIwLWE5ODUtODk2NTk0OTBiNjA1IiwidCI6IjYxYzJmODhiLTk3ZmMtNDA0Yy05MWNkLTdiZmJkYjE1YWE0MiJ9&pageName=ReportSection05cb4e4be162c793b14e)
+
+<br><br>
+## __Additional Notes__
+*Throughout the report, I have used multiple tooltips in different visuals to make the report more insightful.*
+<br><br>
+
+## __Contact__
+For any questions or feedback, please reach out to [suraj783856@gmail.com].
