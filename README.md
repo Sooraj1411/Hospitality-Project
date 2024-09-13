@@ -59,7 +59,7 @@ To provide flexibility in data exploration, the report includes the following sl
 ## __Requirements__
 - *Power BI Desktop or Power BI Service to view and interact with the report.*
 
-<br>
+<br><br>
 
 ## __Report__
 - *Download the report from* [Report](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Hospitality%20Project.pbix)
