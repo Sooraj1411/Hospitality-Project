@@ -71,4 +71,4 @@ A "Clear Slicers" button has been added to the Report to make it easy for users 
 <br><br>
 
 ## __Contact__
-For any questions or feedback, please reach out to [suraj783856@gmail.com].
+For any questions or feedback, please reach out to (suraj783856@gmail.com).
