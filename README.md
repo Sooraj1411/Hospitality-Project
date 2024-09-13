@@ -44,7 +44,6 @@ These slicers allow users to filter the data according to specific criteria and 
 A "Clear Slicers" button has been added to the Report to make it easy for users to reset all slicer selections.
 <br><br>
 
-
 ## __Pages Description__
 *This report is divided in 5 pages. Each Page either give Information about the Problem or present idea or solution to tackle the Business Problem*
 
@@ -68,6 +67,9 @@ A "Clear Slicers" button has been added to the Report to make it easy for users 
 <br><br>
 ## __Additional Notes__
 *Throughout the report, I have used multiple tooltips in different visuals to make the report more insightful.*
+<br><br>
+## __Dataset Info__
+*For the information of dataset refer to [Dataset](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Info%20About%20Dataset.md)*
 <br><br>
 
 ## __Contact__
