@@ -14,7 +14,7 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 [Report Page 2](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%202.png) <br>
 [Report Page 3](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%203.png) <br>
 [Report Page 4](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%204.png) <br>
-[Report Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) <br>
+[Report Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) <br><br><br>
 
 
 ## __Key Performance Indicators (KPIs)__
