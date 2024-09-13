@@ -62,7 +62,7 @@ A "Clear Slicers" button has been added to the Report to make it easy for users 
 
 ## __Report__
 *Download the report from* [Report](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Hospitality%20Project.pbix)
-*For Working With Live Report* [Live Report](https://app.powerbi.com/viewr=eyJrIjoiYTRiZGE5N2ItNjk2Yi00MGIwLWE5ODUtODk2NTk0OTBiNjA1IiwidCI6IjYxYzJmODhiLTk3ZmMtNDA0Yy05MWNkLTdiZmJkYjE1YWE0MiJ9&pageName=ReportSection05cb4e4be162c793b14e)
+*For Working With Live Report* [Live Report](https://app.powerbi.com/view?r=eyJrIjoiYTRiZGE5N2ItNjk2Yi00MGIwLWE5ODUtODk2NTk0OTBiNjA1IiwidCI6IjYxYzJmODhiLTk3ZmMtNDA0Yy05MWNkLTdiZmJkYjE1YWE0MiJ9&pageName=ReportSection05cb4e4be162c793b14e)
 
 <br><br>
 ## __Additional Notes__
