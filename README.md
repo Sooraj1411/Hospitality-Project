@@ -47,5 +47,8 @@ A "Clear Slicers" button has been added to the Report to make it easy for users 
 ## __Pages Description__
 *This report is divided in 5 pages. Each Page either give Information about the Problem or present idea or solution to tackle the Business Problem*
 
-[**Page 1**](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%201.png) - *This is The Home Screen where you can see the basic problem that company is facing right now*
-
+- [Page 1](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%201.png) - *This is The Home Screen where you can see the basic problem that company is facing right now and it can be used to navigate through other pages*
+- [Page 2](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%202.png) - *This Page is dedicated to present the basic analysis of the AtliQ Hotels, tells about their Revenue, RevPAR, Occupancy% & other things. Also include a table of telling information about all Hotels.*
+- [Page 3](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%203.png) - *This Page took the analysis to further level telling information just about Hotels but about their Rooms Types, Weekend vs Weekdays, Revenues by each city etc which will further helps in taking Business Decisions.*
+- [Page 4](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%204.png) - *This Page takes out the insights from the report and tells about the things that are advantageous & disadvantageous to the company.*
+- [Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) - *Last but not the least the most important thing drawn out of this project is the tips or advice for the company which tells about the area where they can improve to make more profit & can give better experience to customers.*
