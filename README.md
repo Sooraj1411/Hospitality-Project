@@ -18,7 +18,7 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 
 
 ## __Key Performance Indicators (KPIs)__
-*The dashboard includes the following KPIs to help users quickly grasp the critical metrics:*
+*The report includes the following KPIs to help users quickly grasp the critical metrics:*
 
 - **Total Revenue:** Rs1.71bn overall revenue displayed for a quick overview.
 - **RevPAR:** Rs 7,347 RevPAR represents the revenue generated per available room, whether or not they are occupied.
@@ -40,4 +40,12 @@ To provide flexibility in data exploration, the report includes slicers for:
 These slicers allow users to filter the data according to specific criteria and gain insights into different aspects of the business.
 
 **Clear Slicers Button**  
-A "Clear Slicers" button has been added to the dashboard to make it easy for users to reset all slicer selections.
+A "Clear Slicers" button has been added to the Report to make it easy for users to reset all slicer selections.
+<br><br>
+
+
+## __Pages Description__
+*This report is divided in 5 pages. Each Page either give Information about the Problem or present idea or solution to tackle the Business Problem*
+
+[**Page 1**](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%201.png) - *This is The Home Screen where you can see the basic problem that company is facing right now*
+
