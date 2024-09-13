@@ -26,3 +26,13 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 - **ADR:** Rs 1.27K It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period
 - **DSRN:** Rs 2.53K This metrics tells on average how many rooms are ready to sell for a day considering a time period
 - **Realization %** 70% It is nothing but the succesful "checked out" percentage over all bookings happened.
+- **And Many More**
+
+  ## Slicers
+To provide flexibility in data exploration, the report includes slicers for:
+- **Filter by Property**
+- **Filter by City**
+- **Filter by Status**
+- **Filter by Platform**
+- **Filter by Months**
+- **Filter by Weeks**
