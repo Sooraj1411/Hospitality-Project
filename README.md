@@ -13,7 +13,7 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 [Report Page 2](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%202.png) <br>
 [Report Page 3](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%203.png) <br>
 [Report Page 4](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%204.png) <br>
-[Report Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) <br><br>
+[Report Page 5](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Page%205.png) <br>
 <br>
 ## __Key Performance Indicators (KPIs)__
 *The report includes the following KPIs to help users quickly grasp the critical metrics:*
@@ -27,14 +27,14 @@ _This project analyzes key performance metrics for a hotel business over a 3-mon
 - **And Many More**
 - *Beneath Every KPI there shows some percentage in positive or negative which show how much the KPI changed with respect to last week.*
 <br>
-## __Slicers__
-*To provide flexibility in data exploration, the report includes slicers for:*
-- **Filter by Property**
-- **Filter by City**
-- **Filter by Status**
-- **Filter by Platform**
-- **Filter by Months**
-- **Filter by Weeks**
+## __Slicers__<br>
+*To provide flexibility in data exploration, the report includes slicers for:*<br>
+- **Filter by Property**<br>
+- **Filter by City**<br>
+- **Filter by Status**<br>
+- **Filter by Platform**<br>
+- **Filter by Months**<br>
+- **Filter by Weeks**<br>
 
 *These slicers allow users to filter the data according to specific criteria and gain insights into different aspects of the business.*
 
