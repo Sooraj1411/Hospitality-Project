@@ -70,7 +70,7 @@ To provide flexibility in data exploration, the report includes the following sl
 *Throughout the report, I have used multiple tooltips in different visuals to make the report more insightful.*
 <br>
 ## __Dataset Info__
-*For the information of dataset refer to [Dataset](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Info%20About%20Dataset.md)*
+*For the information of dataset refer to [Dataset](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Info%20About%20Dataset.md*)
 <br>
 
 ## __Contact__
