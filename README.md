@@ -62,7 +62,6 @@ This report is divided into 5 pages, each providing insights into the business p
 
 ## **Report**
 
-- Download the report from [Report](https://github.com/Sooraj1411/Hospitality-Project/blob/main/Hospitality%20Project.pbix)
 - For working with the live report, visit [Live Report](https://app.powerbi.com/view?r=eyJrIjoiYTRiZGE5N2ItNjk2Yi00MGIwLWE5ODUtODk2NTk0OTBiNjA1IiwidCI6IjYxYzJmODhiLTk3ZmMtNDA0Yy05MWNkLTdiZmJkYjE1YWE0MiJ9&pageName=ReportSection05cb4e4be162c793b14e)
 
 ## **Additional Notes**
